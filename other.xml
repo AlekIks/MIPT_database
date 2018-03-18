@@ -1,0 +1,29 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/homework/hello/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/prog/python/Gsolve/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/prog/python/revue/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Рабочий стол/prog/python/revue/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Рабочий стол/prog/python/seminar/venv/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/homework/hello/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/prog/python/Gsolve/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/prog/python/revue/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Рабочий стол/prog/python/revue/venv/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/homework/hello/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/prog/python/Gsolve/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/prog/python/revue/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Рабочий стол/prog/python/revue/venv/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
