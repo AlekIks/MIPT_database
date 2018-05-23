@@ -3,6 +3,7 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <removed_mapping ext="csv" approved="true" type="CSV" />
+      <mapping pattern="CompareTimeIsLessOrEqual.sql" type="PLAIN_TEXT" />
       <mapping pattern="Техническое задание.txt" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
     </extensionMap>
