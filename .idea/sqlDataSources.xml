@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="36e97c0f-0875-420d-93f4-f11d6c6e2db8" />
+          <option name="name" value="ACinema2.0" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/ddls/Filling-ddl.sql" />
+              <option value="file://$PROJECT_DIR$/functions/PlaceFunctions.sql" />
+              <option value="file://$PROJECT_DIR$/functions/GetEndTime.sql" />
+              <option value="file://$PROJECT_DIR$/functions/CheckRoomInCinema.sql" />
+              <option value="file://$PROJECT_DIR$/functions/TimeIsLessOrEqual.sql" />
+              <option value="file://$PROJECT_DIR$/functions/GetPrice.sql" />
+              <option value="file://$PROJECT_DIR$/ddls/Creation-ddl.sql" />
+              <option value="file://$PROJECT_DIR$/CRUD/Order_C.sql" />
+              <option value="file://$PROJECT_DIR$/ddls/View.sql" />
+              <option value="file://$PROJECT_DIR$/triggers/Triggers.sql" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
