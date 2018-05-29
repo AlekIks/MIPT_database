@@ -4,7 +4,7 @@ Go;
 
 CREATE PROCEDURE dbo.UpdateView (
   @FilmName VARCHAR(MAX),
-  @Rating INT
+  @Rating FLOAT
 )
   AS BEGIN
   UPDATE [Films more popular than average]
