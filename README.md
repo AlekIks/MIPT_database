@@ -1,5 +1,7 @@
 # data_base_MIPT
 
+Информация о БД и задании в разделе Wiki.
+
 ## Полезные ссылки
 + Установка MS SQL сервера на Ububtu и создание базы данных:
 https://docs.microsoft.com/ru-ru/sql/linux/quickstart-install-connect-ubuntu?view=sql-server-linux-2017
